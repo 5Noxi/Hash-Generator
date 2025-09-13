@@ -1,11 +1,9 @@
-# Hash-Generator
+# Hash Generator
 Computes cryptographic hash values (standard hashes MD5, SHA1, SHA256 and HMAC-based hashes) Share the hash with the file, to avoid "fake" ones, preview:
 
 ![hashpre](https://github.com/5Noxi/Hash-Generator/blob/main/NV-Hash.png?raw=true)
 
-## Discord Server 
-- https://discord.gg/E2ybG4j9jU
-## Generated Hashes:
+## Generated Hashes
 - `MD5`
 - `SHA1`
 - `SHA256`
