@@ -65,6 +65,8 @@ SHA512("")
 > [MD5 | wikipedia](https://en.wikipedia.org/wiki/MD5#MD5_hashes)  
 > [SHA-1 | wikipedia](https://en.wikipedia.org/wiki/SHA-1#Example_hashes)
 
+## Installation
+
 `Add-CM.ps1` will add a `Generate Hash` option to the context menu of any file/folder (if selecting a folder all files within the folder will get used):
 
 ![](https://github.com/5Noxi/HashGen/blob/main/cm.png?raw=true)
@@ -74,6 +76,8 @@ There're 2 valid params which you can set (`Add-CM.ps1` will ask for them):
   - If `Y` the file won't close instantly and waits for a specific time till it closes (`seconds`)
 - `seconds` (default of `3`)
   - Only has a impact, if `sleep` is enabled
+
+## Uninstallation
 
 Remove the content menu entry and `HashGen` with:
 ```ps
