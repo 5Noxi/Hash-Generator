@@ -67,7 +67,7 @@ SHA512("")
 
 `Add-CM.ps1` will add a `Generate Hash` option to the context menu of any file/folder (if selecting a folder all files within the folder will get used):
 
-![](?raw=true)
+![](https://github.com/5Noxi/HashGen/blob/main/cm.png?raw=true)
 
 There're 2 valid params which you can set (`Add-CM.ps1` will ask for them):
 - `sleep` (disabled by default means not present, as it is a switch)
