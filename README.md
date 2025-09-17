@@ -71,6 +71,9 @@ SHA512("")
 
 ![](https://github.com/5Noxi/HashGen/blob/main/cm.png?raw=true)
 
+> [!NOTE]
+> `HashGen.ps1` has to be in your `Downloads` folder
+
 There're 2 valid params which you can set (`Add-CM.ps1` will ask for them):
 - `sleep` (disabled by default means not present, as it is a switch)
   - If `Y` the file won't close instantly and waits for a specific time till it closes (`seconds`)
